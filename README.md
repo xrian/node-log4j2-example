@@ -1,7 +1,7 @@
 # node-log4j2-example
 node express整合log4j2.x版本的例子
 https://github.com/nomiddlename/log4js-node
-
+[文档地址](https://nomiddlename.github.io/log4js-node/index.html)
 安装依赖
 ```
 npm install
